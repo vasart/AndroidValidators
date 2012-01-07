@@ -1,0 +1,14 @@
+Validators for android by Ruswizards (ruswizards.com).
+
+Simple and minimalistic validators that allow to validate multiple condition by one validator, check multiple validators by one call.
+Easily extendabe.
+
+To build your own jar:
+
+1. clone progect from gitHub
+2. open ".classpath" file and change line <classpathentry kind="lib" path="C:/Program Files (x86)/Android/android-sdk/platforms/android-7/android.jar"/> to correspond your SDK location like
+ <classpathentry kind="lib" path="%MY_ANDOID_PLATFORM_JAR%"/>. 
+3. Import project into eclipse
+4. Build
+
+You could also change path to jar directly from project properties in Eclipse after import.
